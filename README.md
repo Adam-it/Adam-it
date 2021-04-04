@@ -6,6 +6,6 @@ If you like my work or find it helpful let me know 👍
 
 You may reach me on [LinkedIn](https://www.linkedin.com/in/adam-w%C3%B3jcik-9b7777a6/)
 
-Besides Open Source I also try to support the community on StackOverflow (usually SharePoint topics 😋):
+Besides Open Source I also try to support the community on StackOverflow (usually SharePoint stuff 😉):
 - [stackoverflow](https://stackoverflow.com/users/11672309/adam)
 - [sharepoint.stackexchange](https://sharepoint.stackexchange.com/users/84913/adam)
