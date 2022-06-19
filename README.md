@@ -15,3 +15,7 @@ You may reach me on
 Other dev related
 - [stackoverflow](https://stackoverflow.com/users/11672309/adam)
 - [sharepoint.stackexchange](https://sharepoint.stackexchange.com/users/84913/adam)
+
+<a href="https://github.com/adam-it/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-it&show_icons=true&include_all_commits=false&count_private=true" />
+</a> 
