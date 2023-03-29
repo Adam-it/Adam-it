@@ -6,7 +6,7 @@ Hi there 👋
 <br>💪 I am a maintainer of [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365). Let me know if you need any guidance or help related Microsoft 365 (not only CLI 😉).
 <br>👨‍💻I like to code for the community by supporting PnP Open Source projects/repos. [Usually things for SharePoint and Microsoft 365.](https://adoption.microsoft.com/en-us/sample-solution-gallery/Adam-it/) and [create solutions that support devs in VS Code](https://marketplace.visualstudio.com/publishers/adamwojcikit)
 <br>✍️Besides coding I try a bit of blogging by contributing the little knowledge that I have to [PnP Blog](https://pnp.github.io/blog/)
-<br>🌈[#include <everyone>](https://accessibilityinsights.io/)
+<br>🌈[#include `<everyone>`](https://accessibilityinsights.io/)
 <br>👉If you like my work or find it helpful let me know 👍<br>
 
 
